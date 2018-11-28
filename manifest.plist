@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/Reinhardt326/ipaHost/blob/master/IFWorldFarm.ipa?raw=true</string>
+					<string>https://github.com/Reinhardt326/ipaHost/raw/master/IFWorldFarm.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/Reinhardt326/ipaHost/blob/master/icon_60.png?raw=true</string>
+					<string>https://github.com/Reinhardt326/ipaHost/raw/master/icon_60.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/Reinhardt326/ipaHost/blob/master/icon_1024.png?raw=true</string>
+					<string>https://github.com/Reinhardt326/ipaHost/raw/master/icon_1024.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
